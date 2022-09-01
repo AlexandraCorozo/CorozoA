@@ -8,7 +8,6 @@ int main()
 	cin>>x>>y;
 	z=x+y;
 	cout<<"El resultado es :";
-	cout<<"El resultado es :";
 	cout<<z<<endl;
 	return 0;
 }
